@@ -1,9 +1,16 @@
-﻿# weather-forecast-by-graphcast
+# ☁️ weather-forecast-by-graphcast
 
-⚡️ Tối ưu hiệu suất với Google Colab
+## ⚡️ Tối ưu hiệu suất với Google Colab
 
-🔥 Khuyến nghị: Nên chạy dự án trên Google Colab để đạt hiệu suất tối ưu.
+> 🔥 **Khuyến nghị:** Nên chạy dự án trên **Google Colab** để đạt hiệu suất tối ưu.
 
-Google Colab hỗ trợ GPU/ TPU miễn phí, giúp tăng tốc đáng kể quá trình dự báo thời tiết bằng mô hình GraphCast.
+[![Mở trên Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a2b3c4d5e6f7g8h9i0j?usp=sharing)
 
-Việc sử dụng GPU giúp giảm thời gian tính toán xuống rất nhiều lần so với chạy trên CPU thông thường.
+- Google Colab hỗ trợ **GPU**/ **TPU** miễn phí, giúp tăng tốc đáng kể quá trình dự báo thời tiết bằng mô hình **GraphCast**.
+- Việc sử dụng GPU giúp giảm thời gian tính toán xuống **rất nhiều lần** so với chạy trên CPU thông thường.
+- Hãy đảm bảo bạn đã:
+  - Chuyển Colab sang chế độ GPU:  
+    `Runtime` → `Change runtime type` → `Hardware accelerator: GPU`
+
+---
+
