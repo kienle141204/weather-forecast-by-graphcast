@@ -4,7 +4,7 @@
 
 > 🔥 **Khuyến nghị:** Nên chạy dự án trên **Google Colab** để đạt hiệu suất tối ưu.
 
-[![Mở trên Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1a2b3c4d5e6f7g8h9i0j?usp=sharing](https://colab.research.google.com/drive/10kQIk4b-wyXTl8xBVPEnvdbXlXXmS9CA?usp=sharing))
+[![Mở trên Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10kQIk4b-wyXTl8xBVPEnvdbXlXXmS9CA?usp=sharing)
 
 - Google Colab hỗ trợ **GPU**/ **TPU** miễn phí, giúp tăng tốc đáng kể quá trình dự báo thời tiết bằng mô hình **GraphCast**.
 - Việc sử dụng GPU giúp giảm thời gian tính toán xuống **rất nhiều lần** so với chạy trên CPU thông thường.
