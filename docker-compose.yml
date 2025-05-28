@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  weather-forecast:
+    build: .
+    volumes:
+      - ./config:/app/config
+      - ./output:/app/output
+    environment:
+      - CDS_API_KEY=${CDS_API_KEY}
+      - GOOGLE_APPLICATION_CREDENTIALS=/app/config/silicon-stock-452315-h4-1159b7c155af.json
+    command: python main.py 
